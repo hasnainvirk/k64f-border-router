@@ -12,9 +12,9 @@
   "license": "Apache-2.0",
   "bin": "./source",
   "dependencies": {
-    "nanostack-border-router": "^1.0.0",
-    "sal-stack-nanostack": "^4.0.2",
-    "sal-nanostack-driver-k64f-eth": "^1.0.0",
-    "sal-stack-nanostack-slip": "^1.0.0"
+    "nanostack-border-router": "1.1.0",
+    "sal-stack-nanostack": "4.1.0",
+    "sal-nanostack-driver-k64f-eth": "1.1.2",
+    "sal-stack-nanostack-slip": "1.2.0"
   }
 }
